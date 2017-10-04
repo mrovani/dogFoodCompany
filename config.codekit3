@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/Cheyenne Dog Food Co Logo.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Cheyenne Dog Food Co Logo.sketch",
+		"oF": 0
+		},
 	"\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -28,6 +34,47 @@
 		"oAP": "\/css\/min\/min\/main-min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/images\/Logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/Logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/Logo2.png": {
+		"ft": 32768,
+		"iS": 66808,
+		"oA": 0,
+		"oAP": "\/images\/Logo2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/Logo3.jpg": {
+		"ft": 16384,
+		"iS": 43604,
+		"oA": 0,
+		"oAP": "\/images\/Logo3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/treatImg.jpg": {
+		"ft": 16384,
+		"iS": 193191,
+		"oA": 0,
+		"oAP": "\/images\/treatImg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/index.html": {
 		"ft": 8192,

@@ -1,1 +1,14 @@
- 
+.col-xs-12top {
+    background-color: #7E7D7F;
+    height: 80px;
+}
+
+.col-xs-12 {
+    background-color: #8DD3F7;
+    height: 5px;
+}
+
+.logo {
+    height: 150px;
+    width:  150px;
+}
