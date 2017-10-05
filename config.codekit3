@@ -35,6 +35,17 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/images\/fbIcon.png": {
+		"ft": 32768,
+		"iS": 2743,
+		"oA": 0,
+		"oAP": "\/images\/fbIcon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/Logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -79,7 +90,7 @@
 		},
 	"\/images\/searchIcon.png": {
 		"ft": 32768,
-		"iS": 400,
+		"iS": 1158,
 		"oA": 0,
 		"oAP": "\/images\/searchIcon.png",
 		"oF": 0,
@@ -96,6 +107,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/images\/twitterIcon.png": {
+		"ft": 32768,
+		"iS": 3094,
+		"oA": 0,
+		"oAP": "\/images\/twitterIcon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/index.html": {
