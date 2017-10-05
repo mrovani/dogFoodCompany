@@ -3,14 +3,63 @@
     height: 80px;
 }
 
+.col-xs-12footer {
+    background-color: #7E7D7F;
+    height: 200px;
+}
+
 .col-xs-12menu {
     background-color: #A4A4A5;
     height: 50px;
 }
 
+.navbar {
+    background-color: #A4A4A5
+    
+}
+
+li {
+    padding: 30px;
+    padding-left: 130px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+/* .col-xs-12brands {
+    background-color: #E0DFDA;
+    height: 80px;
+} */
+
+.col-xs-12white {
+    margin-top: 90px;
+    background-color: #FFFFFF;
+    height: 150px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #7E7D7F;
+}
+
+/* p {
+    margin-top: 50px;
+} */
+
+.brands {
+    width: 100vw;
+}
+
 .navbar-header {
     background-color: #A4A4A5;
 }
+.col-xs-12topblue {
+    background-color: #8DD3F7;
+    height: 5px;
+}
+
 .col-xs-12 {
     background-color: #8DD3F7;
     height: 5px;
@@ -19,13 +68,13 @@
 .logo {
     position: relative;
     top: 10px;
-    left: 20px;
+    left: 25px;
     height: 180px;
     width:  180px;
     z-index: 1;
 }
 
 .treats {
-    position: relative;
-    left: 50px;
+    /* height: 85vh; */
+    width: 100vw;
 }
