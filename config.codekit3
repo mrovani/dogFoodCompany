@@ -77,6 +77,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/searchIcon.png": {
+		"ft": 32768,
+		"iS": 400,
+		"oA": 0,
+		"oAP": "\/images\/searchIcon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/treatImg.jpg": {
 		"ft": 16384,
 		"iS": 193191,
