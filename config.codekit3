@@ -9,6 +9,18 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
+	"\/accessories.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/accessories.html",
+		"oF": 0
+		},
 	"\/Cheyenne Dog Food Co Logo.sketch": {
 		"ft": 8192,
 		"oA": 2,
@@ -34,6 +46,18 @@
 		"oAP": "\/css\/min\/min\/main-min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/food.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/food.html",
+		"oF": 0
+		},
+	"\/grooming.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/grooming.html",
+		"oF": 0
 		},
 	"\/images\/fbIcon.png": {
 		"ft": 32768,
@@ -145,6 +169,12 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/supplements.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/supplements.html",
+		"oF": 0
 		}
 	},
 "hooks": [
